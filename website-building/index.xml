@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIOLEARN</title>
+    <link>https://aiolearn.goosegrin.site/website-building/</link>
+    <description>Recent content on AIOLEARN</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://aiolearn.goosegrin.site/website-building/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
