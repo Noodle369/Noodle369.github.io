@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aiolearn.goosegrin.site/social-media/</loc>
+    <loc>https://aiolearn.goosegrin.site/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aiolearn.goosegrin.site/tools/</loc>
+    <loc>https://aiolearn.goosegrin.site/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -14,11 +14,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aiolearn.goosegrin.site/</loc>
+    <loc>https://aiolearn.goosegrin.site/tools/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aiolearn.goosegrin.site/tags/</loc>
+    <loc>https://aiolearn.goosegrin.site/social-media/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
