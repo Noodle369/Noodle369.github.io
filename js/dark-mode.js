@@ -3,16 +3,16 @@
 updateTheme();
 
 // set the appropriate theme when the user toggles the button
-window.addEventListener("DOMContentLoaded", () => {
-  var toggle = document.getElementById("dark-mode-toggle");
-  toggle.addEventListener("click", () => {
-    if (document.documentElement.getAttribute("data-theme") == "dark")
-      localStorage["dark-mode-storage"] = "light";
-    else
-      localStorage["dark-mode-storage"] = "dark";
-    updateTheme();
-  });
-}, {once: true});
+// window.addEventListener("DOMContentLoaded", () => {
+//   var toggle = document.getElementById("dark-mode-toggle");
+//   toggle.addEventListener("click", () => {
+//     if (document.documentElement.getAttribute("data-theme") == "dark")
+//       localStorage["dark-mode-storage"] = "light";
+//     else
+//       localStorage["dark-mode-storage"] = "dark";
+//     updateTheme();
+//   });
+// }, {once: true});
 
 // Add an event listener when the browser theme changes.
 // The user defined theme does take precedence, so if the
